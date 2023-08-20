@@ -1,0 +1,91 @@
+[{
+    "country": "England",
+    "cities": [
+        {"city": "Cambridge", "isCapital": "false"},
+        {"city": "London", "isCapital": "true"},
+        {"city": "Liverpool", "isCapital": "false"},
+        {"city": "Manchester", "isCapital": "false"}
+    ]
+},
+{
+    "country": "Germany",
+    "cities": [
+        {"city": "Munich", "isCapital": "false"},
+        {"city": "Hamburg", "isCapital": "false"},
+        {"city": "Berlin", "isCapital": "true"},
+        {"city": "Stuttgart", "isCapital": "false"}
+    ]
+},
+{
+    "country": "USA",
+    "cities": [
+        {"city": "Washington", "isCapital": "true"},
+        {"city": "Los Angeles", "isCapital": "false"},
+        {"city": "New York", "isCapital": "false"},
+        {"city": "Chicago", "isCapital": "false"}
+    ]
+},
+{
+    "country": "Canada",
+    "cities": [
+        {"city": "Montreal", "isCapital": "false"},
+        {"city": "Vancouver", "isCapital": "false"},
+        {"city": "Ottawa", "isCapital": "true"},
+        {"city": "Toronto", "isCapital": "false"}
+    ]
+},
+{
+    "country": "Italy",
+    "cities": [
+        {"city": "Milan", "isCapital": "false"},
+        {"city": "Venice", "isCapital": "false"},
+        {"city": "Rome", "isCapital": "true"},
+        {"city": "Pisa", "isCapital": "false"}
+    ]
+},
+{
+    "country": "Mexico",
+    "cities": [
+        {"city": "Guadalajara", "isCapital": "false"},
+        {"city": "Mexico", "isCapital": "true"},
+        {"city": "Monterrey", "isCapital": "false"},
+        {"city": "Puebla", "isCapital": "false"}
+    ]
+},
+{
+    "country": "China",
+    "cities": [
+        {"city": "Beijing", "isCapital": "true"},
+        {"city": "Shanghai", "isCapital": "false"},
+        {"city": "Guangzhou", "isCapital": "false"},
+        {"city": "Shenzhen", "isCapital": "false"}
+    ]
+},
+{
+    "country": "Turkey",
+    "cities": [
+        {"city": "Istanbul", "isCapital": "false"},
+        {"city": "Izmir", "isCapital": "false"},
+        {"city": "Bursa", "isCapital": "false"},
+        {"city": "Ankara", "isCapital": "true"}
+    ]
+},
+{
+    "country": "Netherlands",
+    "cities": [
+        {"city": "The Hague", "isCapital": "false"},
+        {"city": "Rotterdam", "isCapital": "false"},
+        {"city": "Amsterdam", "isCapital": "true"},
+        {"city": "Utrecht", "isCapital": "false"}
+    ]
+},
+{
+    "country": "Lithuania",
+    "cities": [
+        {"city": "Kaunas", "isCapital": "false"},
+        {"city": "Vilnius", "isCapital": "true"},
+        {"city": "Alytus", "isCapital": "false"},
+        {"city": "Šiauliai", "isCapital": "false"}
+    ]
+}
+]
